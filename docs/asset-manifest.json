@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.441fe7c6.css",
+    "main.js": "/static/js/main.164312ea.js",
+    "static/js/453.b2674b3d.chunk.js": "/static/js/453.b2674b3d.chunk.js",
+    "static/media/Casas.jpg": "/static/media/Casas.f958364def23e26d97bb.jpg",
+    "static/media/admin.jpg": "/static/media/admin.31511e303caac1484d23.jpg",
+    "static/media/Conjunto.jpg": "/static/media/Conjunto.f67c5ed8461e73d57560.jpg",
+    "static/media/play.jpg": "/static/media/play.0200c2db850f73c226b9.jpg",
+    "static/media/location.jpg": "/static/media/location.8e2fd3b4259136dd150c.jpg",
+    "static/media/parking.jpg": "/static/media/parking.3faa1873c1d1167ee665.jpg",
+    "static/media/Manzanas.jpg": "/static/media/Manzanas.3d4f1cc0ae53678167cb.jpg",
+    "static/media/bbq.jpg": "/static/media/bbq.494ebcd1dcfde374445f.jpg",
+    "static/media/logo1.png": "/static/media/logo1.4b8c7899e3e2709ee6c7.png",
+    "index.html": "/index.html",
+    "main.441fe7c6.css.map": "/static/css/main.441fe7c6.css.map",
+    "main.164312ea.js.map": "/static/js/main.164312ea.js.map",
+    "453.b2674b3d.chunk.js.map": "/static/js/453.b2674b3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.441fe7c6.css",
+    "static/js/main.164312ea.js"
+  ]
+}
